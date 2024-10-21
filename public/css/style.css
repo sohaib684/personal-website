@@ -13,3 +13,17 @@ img{
   padding: 70px 0px!important;
 }
 }
+.card-footer:hover {
+    color: #000000; 
+    text-decoration: solid; 
+    cursor: pointer; /* Change cursor to pointer on hover */
+   background-color: rgb(255, 0, 0);
+  }
+  .card-header:hover
+  {
+    color: #000000; 
+    text-decoration: solid; 
+    cursor: pointer; /* Change cursor to pointer on hover */
+   background-color: rgb(255, 215, 0);
+  }
+  
